@@ -1,5 +1,6 @@
 Neco's MediaTools
 
+AVISO > Vibecoded, é só um ytdlp com alguns adicionais - não espera nada mais disso, feito para uso pessoal 
 Programa desktop pra baixar áudio/vídeo de links (YouTube, TikTok, Instagram, etc.) e converter arquivos entre formatos comuns (imagem, documento, planilha, áudio, vídeo).
 
 O que o aplicativo faz
